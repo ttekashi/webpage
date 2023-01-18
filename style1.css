@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+    color: blue;
+    padding: 30px;
+    font-size: 25px;
+
+}
+
+nav{
+    background-color: black;
+    height: 40px;
+    padding-top: 15px;
+}
+
+body{
+    background-color: pink;
+}
+img{
+    margin: 20px;
+    
+}
+.container{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+aside{
+    width: 35%;
+    background-color: whitesmoke;
+    float: right;
+    padding-left: 35px;
+}
+.footer{
+    margin-left: 50px;
+    background-color: gray;
+    width: 300px;
+}
